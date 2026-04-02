@@ -1,0 +1,7 @@
+Web Development Overview
+
+Web development involves building websites and applications. It
+includes: - Frontend (HTML, CSS, JavaScript) - Backend (Python, Node.js,
+databases)
+
+Frameworks like React and FastAPI are commonly used.

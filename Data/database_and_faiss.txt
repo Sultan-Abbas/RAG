@@ -1,0 +1,7 @@
+Database Systems and FAISS
+
+A database is a structured collection of data. Types of databases: -
+Relational (MySQL, PostgreSQL) - NoSQL (MongoDB, Redis)
+
+Vector databases like FAISS are used in AI applications such as RAG
+systems.

@@ -1,0 +1,8 @@
+Artificial Intelligence Basics
+
+Artificial Intelligence (AI) refers to the simulation of human
+intelligence in machines. Key areas include: - Machine Learning -
+Natural Language Processing - Computer Vision
+
+AI is widely used in recommendation systems, chatbots, and autonomous
+vehicles.
